@@ -1,0 +1,16 @@
+.up {
+  color: green;
+}
+.down {
+  color: red;
+}
+.btn {
+  display: inline-block;
+  padding: 2px 3px;
+  border: 1px solid #000;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: antiquewhite;
+}
